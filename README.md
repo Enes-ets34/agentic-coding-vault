@@ -1,8 +1,8 @@
 # Agentic Coding Learning Vault
 
-This repository is my agentic coding learning vault.
+This repository is my agentic coding learning vault. Its purpose is not only to keep notes, but to learn, try, and document agentic software development workflows in a systematic way.
 
-I am learning how AI coding agents work in practice, including:
+I am working through how AI coding agents behave in practice:
 
 - Cursor
 - Claude Code
@@ -15,7 +15,15 @@ I am learning how AI coding agents work in practice, including:
 
 I use Obsidian as a second brain. Notes in this vault are plain Markdown, so sessions, concepts, and experiments stay linked over time.
 
-The repository will be updated over time with hands-on exercises and real experiments.
+Entries come from experiments and from the workflows I actually run.
+
+## Current focus
+
+- Agent workflows
+- Context management
+- Obsidian + Cursor workflow
+- Skills and MCP
+- Repository exploration
 
 ## Layout
 
